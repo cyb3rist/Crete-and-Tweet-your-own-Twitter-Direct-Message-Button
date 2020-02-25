@@ -1,4 +1,4 @@
-# Tweet a Twitter Direct Message Button
+# Create & Tweet Your Own Twitter Direct Message Button
 
 takes less the 2 minutes.
 

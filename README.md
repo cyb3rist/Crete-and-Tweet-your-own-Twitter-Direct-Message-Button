@@ -3,7 +3,7 @@
 takes less the 2 minutes.
 
 <p align="center">
- <img src="![img01](https://user-images.githubusercontent.com/30123757/75264488-7b098380-5815-11ea-84ac-63f60920b018.jpg)">
+ <img src="https://user-images.githubusercontent.com/30123757/75264488-7b098380-5815-11ea-84ac-63f60920b018.jpg">
 </p>
 
 Step 1: Go to your twitter account Click on "More" option.

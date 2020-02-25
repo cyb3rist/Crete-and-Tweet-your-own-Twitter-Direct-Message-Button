@@ -6,7 +6,7 @@ takes less the 2 minutes.
 
 Step 1: Go to your twitter account Click on "More" option.
 
-Step 2: Go to "Settings privacy".
+Step 2: Go to "Settings and privacy".
 
 Step 3: Go to Account and Click on "Your Twitter Data". (enter password if required)
 

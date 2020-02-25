@@ -2,9 +2,7 @@
 
 takes less the 2 minutes.
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/30123757/75264488-7b098380-5815-11ea-84ac-63f60920b018.jpg">
-</p>
+[img01](https://user-images.githubusercontent.com/30123757/75264488-7b098380-5815-11ea-84ac-63f60920b018.jpg)
 
 Step 1: Go to your twitter account Click on "More" option.
 
@@ -16,9 +14,8 @@ Step 4: Go to Account inside "Your Twitter Data".
 
 Step 5: Copy User ID Number. (image below)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/30123757/75266831-f0c31e80-5818-11ea-9b2c-fd701f301366.jpg">
-</p>
+
+![img02](https://user-images.githubusercontent.com/30123757/75266831-f0c31e80-5818-11ea-9b2c-fd701f301366.jpg)
 
 
 Step 6: Paste your User ID Number end of this link replacing "COPY-YOUR-USER-ID-NUMBER-HERE".

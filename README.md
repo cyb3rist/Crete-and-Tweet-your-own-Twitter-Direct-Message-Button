@@ -18,9 +18,9 @@ Step 5: Copy User ID Number. (image below)
 ![img02](https://user-images.githubusercontent.com/30123757/75266831-f0c31e80-5818-11ea-9b2c-fd701f301366.jpg)
 
 
-Step 6: Paste your User ID Number at the end of this link replacing "COPY-YOUR-USER-ID-NUMBER-HERE".
+Step 6: Paste your User ID Number at the end of this link replacing "PASTE-YOUR-USER-ID-NUMBER-HERE".
 ```
-https://twitter.com/messages/compose?text=example%20text&recipient_id=COPY-YOUR-USER-ID-NUMBER-HERE
+https://twitter.com/messages/compose?text=example%20text&recipient_id=PASTE-YOUR-USER-ID-NUMBER-HERE
 ```
 
 Step 7 (optional): Replace "example%20text" with whatever you want the message to say. (to give spaces between words type "%20" with the double quotes)

@@ -1,6 +1,6 @@
 # Create & Tweet Your Own Twitter Direct Message Button
 
-takes less the 2 minutes.
+takes less then 2 minutes.
 
 ![img01](https://user-images.githubusercontent.com/30123757/75264488-7b098380-5815-11ea-84ac-63f60920b018.jpg)
 
@@ -10,7 +10,7 @@ Step 2: Go to "Settings and privacy".
 
 Step 3: Go to Account and Click on "Your Twitter Data". (enter password if required)
 
-Step 4: Go to Account inside "Your Twitter Data".
+Step 4: Go to "Account" inside 'Your Twitter Data' option.
 
 Step 5: Copy User ID Number. (image below)
 
@@ -32,4 +32,4 @@ Note: Make sure you have "DM eneble from Anyone" option active if Twitter do not
 
 Example link: https://twitter.com/cyb3rist/status/1232325150562930690
 
-Have fun!
+Have fun! :) 

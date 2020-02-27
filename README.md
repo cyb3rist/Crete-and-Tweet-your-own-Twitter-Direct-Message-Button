@@ -23,7 +23,7 @@ Step 6: Paste your User ID Number at the end of this link replacing "PASTE-YOUR-
 https://twitter.com/messages/compose?text=example%20text&recipient_id=PASTE-YOUR-USER-ID-NUMBER-HERE
 ```
 
-Step 7 (optional): Replace "example%20text" with whatever you want the message to say. (to give spaces between words type "%20" with the double quotes)
+Step 7 (optional): Replace "example%20text" with whatever you want the message to say. (to give spaces between words type "%20" without the double quotes)
 
 Step 8: Tweet the URL to the world!
 
